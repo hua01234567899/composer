@@ -1,0 +1,19 @@
+{
+  "name": "hua01234567899/guohua_composer",
+  "description": "some userful phpclass \u001b[D",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "zghua",
+      "email": "1803897171@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "guohua_php\\": "src/"
+    }
+  }
+}
